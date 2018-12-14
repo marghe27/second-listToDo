@@ -1,0 +1,21 @@
+{
+  "name": "second-list-todo",
+  "version": "1.0.0",
+  "description": "In Sostituzione del Package fakelist-to-do ",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "List"
+  ],
+  "author": "Margherita <marghe27@live.it>",
+  "license": "MIT"
+}
